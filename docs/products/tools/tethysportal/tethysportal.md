@@ -29,9 +29,7 @@ The proposed catalog is being built using Django CMS, Tethys Platform, HydroShar
 
 ## Access
 
-The developed NWM Research Apps Portal will be hosted at a publicly-facing web domain (URL to be determined) and will serve as a platform that links and organizes together a curated selection of publicly-facing NWM visualization and analysis tools developed by CIROH and NOAA.
-
-The current development version of the NWM Research Apps Portal is temporarily accessible here: http://k8s-default-ciroh-5df48cf891-26887781.us-east-1.elb.amazonaws.com/
+The developed NWM Research Apps Portal is hosted [here](http://portal.ciroh.org/t/apps/), and it serves as a platform that links and organizes together a curated selection of publicly-facing NWM visualization and analysis tools developed by CIROH and NOAA.
 
 ## Code
 
